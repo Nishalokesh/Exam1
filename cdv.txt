@@ -1,7 +1,7 @@
 <html>
-<title>i am a develpoer</title>
+<title>I am a developer</title>
 <body>
 this is nisha
-from 5cdv1
+from bangalore
 </body>
 </html>
